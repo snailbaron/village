@@ -1,0 +1,6 @@
+[submodule "deps/ge"]
+	path = deps/ge
+	url = git@github.com:snailbaron/ge.git
+[submodule "deps/evening"]
+	path = deps/evening
+	url = git@github.com:snailbaron/evening.git
